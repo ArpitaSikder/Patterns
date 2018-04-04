@@ -1,1 +1,1 @@
-# Project
+# Creating different patterns using C
