@@ -16,6 +16,7 @@ int main()
 		printf("\n");
 		sum=sum+1;
 		j=j+1;
+		//test pr12
 	}
 }
 
