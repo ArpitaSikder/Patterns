@@ -48,7 +48,7 @@ int main()
 	
 		printf("\n");
 		sum=sum+1;
-	
+	printf("some change");
 	}	   
 	
 }	 
